@@ -1,0 +1,100 @@
+[
+    {
+      "question": "What is the largest animal currently on Earth?",
+      "choice1": "Orca",
+      "choice2": "Giraffe",
+      "choice3": "Colossal Squid",
+      "choice4": "Blue Whale",
+      "answer": 4
+    },
+    {
+      "question": 	"What is the hottest planet in the Solar System?",
+      "choice1": "Mars",
+      "choice2": "Mercury",
+      "choice3": "Jupiter",
+      "choice4": "Venus",
+      "answer": 4
+    },
+    {
+      "question": " The asteroid belt is located between which two planets?",
+      "choice1": "Jupiter and Saturn",
+      "choice2": "Mars and Jupiter",
+      "choice3": "Mercury and Venus",
+      "choice4": "Earth and Mars",
+      "answer": 2
+    },
+
+    
+    {
+        "question": "Which Apollo mission was the first one to land on the Moon?",
+        "choice1": "Apollo 10",
+        "choice2": "Apollo 11",
+        "choice3": "Apollo 09",
+        "choice4": "Apollo 13",
+        "answer": 2
+      },
+
+      {
+        "question": "What lies at the center of our galaxy?",
+        "choice1": "A black hole",
+        "choice2": "A wormhole",
+        "choice3": "A supernovs",
+        "choice4": "A quasar",
+        "answer": 1
+      },
+
+      {
+        "question": "Which is the most abundant element in the universe?",
+        "choice1": "Helium",
+        "choice2": "Lithium",
+        "choice3": "Hydrogen",
+        "choice4": "Oxygen",
+        "answer": 3
+      },
+
+      {
+        "question": "Human cells typically have how many copies of each gene?",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "2",
+        "choice4": "4",
+        "answer": 3
+      },
+
+      {
+        "question": "This element, when overcome with extreme heat and pressure, creates diamonds?",
+        "choice1": "Carbon",
+        "choice2": "Nitrogen",
+        "choice3": "Oxygen",
+        "choice4": "Hydrogen",
+        "answer": 1
+      },
+
+      {
+        "question": "What is the standard SI unit for temperature?",
+        "choice1": "Fahrenheit",
+        "choice2": "Celsius",
+        "choice3": "Rankine",
+        "choice4": "Kelvin",
+        "answer": 4
+      },
+
+      {
+        "question": "How many planets make up our Solar System?",
+        "choice1": "8",
+        "choice2": "7",
+        "choice3": "9",
+        "choice4": "6",
+        "answer": 1
+      },
+
+      {
+        "question": "What is the chemical makeup of water?",
+        "choice1": "CO2",
+        "choice2": "C12H6O2",
+        "choice3": "H2O",
+        
+        "choice4": "H",
+        "answer": 3
+      }
+]
