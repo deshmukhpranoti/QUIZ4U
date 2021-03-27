@@ -5,13 +5,9 @@
 
 <br>
 <br>
-QUIZ4U is a Quiz app. The Quiz app home page have two options as play and High score. The app has 3 Questions in total and the score for each question is 10 points. The app shows your score depending upon the number of questions the user answered correctly. In the app the correct and incorrect answer is shown by red and green colour. At the end page there are 4 options as Username, Save, Play Again, Go Home. The app has the option to save and show the high score of the user. Link for demo is here 
-
-<https://quiz4u.netlify.app/>
-
+QUIZ4U is a Quiz app. The Quiz app home page have two options as play and High score. The app has 3 Questions in total and the score for each question is 10 points. The app shows your score depending upon the number of questions the user answered correctly. In the app the correct and incorrect answer is shown by red and green colour. At the end page there are 4 options as Username, Save, Play Again, Go Home. The app has the option to save and show the high score of the user. Link for demo is here <https://quiz4u.netlify.app/>
 I built this app during a course provided by Udemy.
 You can also check out the source code. The link is given below
-
 <https://github.com/jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript>
 
 # Web Page Screenshot
